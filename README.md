@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jeremiah Tekenna Kada – a passionate software developer with a knack for creating efficient and scalable code. With 4 years of experience in the industry, I’ve had the pleasure of working on everything from back-end APIs to front-end interfaces, all with a keen focus on performance, reliability, and user experience.
+I'm Jeremiah Tekenna Kada – a passionate software developer with a knack for creating efficient and scalable code. With 5 years of experience in the industry, I’ve had the pleasure of working on everything from back-end APIs to front-end interfaces on both web and mobile apps, all with a keen focus on performance, reliability, and user experience.
 
 ## 🛠️ Tech Stack
 Languages: JavaScript, TypeScript
